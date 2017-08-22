@@ -2,4 +2,4 @@
 
 ## utils/speed_reading.py script run
 - Copy something to clipboard
-- Run $ `python speed_read.py`
+- Run $ `python speed_reader.py`
